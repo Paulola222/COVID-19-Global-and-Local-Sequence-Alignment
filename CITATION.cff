@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-   message: "If you use this software, please cite it as below."
-   title: "Global and Local Sequence Alignment of SARS-CoV-2, SARS and MERS Genomes"
-   version: 0.1.0
-   authors:
-     - family-names: Ola
-       given-names: Paul Ayodeji
+message: "If you use this software, please cite it as below."
+title: "COVID-19-Global-and-Local-Sequence-Alignment"
+version: 0.1.1
+license: MIT
+authors:
+  - family-names: Ola
+    given-names: Paul Ayodeji
