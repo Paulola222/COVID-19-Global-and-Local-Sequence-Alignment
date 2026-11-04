@@ -23,11 +23,5 @@ both exact and near-exact matches, which is essential when comparing viral
 genomes that differ by only a small number of mutations across otherwise 
 highly conserved sequences.
 
-## Context
-This project was developed independently, without the infrastructure of a 
-funded laboratory or the direction of a supervisor, as part of a broader 
-self-directed effort to apply rigorous, efficient computational methods to 
-SARS-CoV-2 genomic surveillance.
-
 ## Author
 Paul Ayodeji Ola
